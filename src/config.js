@@ -1,20 +1,20 @@
 const TOP_DEFAULT_CONFIG = {
-  pullText: '下拉刷新',
-  triggerText: '释放更新',
-  loadingText: '加载中...',
-  doneText: '加载完成',
-  failText: '加载失败',
+  pullText: '당겨서 새로고침',
+  triggerText: '업데이트 릴리즈',
+  loadingText: '로드중...',
+  doneText: '로드 완료',
+  failText: '로드 실패',
   loadedStayTime: 400,
   stayDistance: 50,
   triggerDistance: 70
 };
 
 const BOTTOM_DEFAULT_CONFIG = {
-  pullText: '上拉加载',
-  triggerText: '释放更新',
-  loadingText: '加载中...',
-  doneText: '加载完成',
-  failText: '加载失败',
+  pullText: '당겨서 새로고침',
+  triggerText: '업데이트 릴리즈',
+  loadingText: '로드중...',
+  doneText: '로드 완료',
+  failText: '로드 실패',
   loadedStayTime: 400,
   stayDistance: 50,
   triggerDistance: 70
